@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/question.png</file>
+        <file>Resources/fondo.png</file>
+        <file>Resources/fondo2.png</file>
+        <file>Resources/miplaneta.png</file>
+        <file>Resources/elplaneta.png</file>
+        <file>Resources/suplaneta.png</file>
+        <file>Resources/im1.jpg</file>
+        <file>Resources/minave.png</file>
+    </qresource>
+</RCC>
